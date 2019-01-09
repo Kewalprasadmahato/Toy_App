@@ -1,15 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
+This README contains  information that needs to be covered
 
 * Ruby version
 
 * System dependencies
 
-* Configuration
+* Configuration information
 
 * Database creation
 
@@ -17,8 +14,8 @@ Things you may want to cover:
 
 * How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+* Services 
 
-* Deployment instructions
+* Instructions for deployment 
 
 * ...
